@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - fsuper (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fsuper (from `.symlinks/plugins/fsuper/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fsuper:
+    :path: ".symlinks/plugins/fsuper/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fsuper: 8c0f2eac31f4ce7ec7c896f7095e7177729cc0a4
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
