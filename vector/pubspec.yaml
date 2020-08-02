@@ -36,6 +36,8 @@ dependencies:
   fswitch: ^1.1.2
   fbutton: ^2.0.0
   fsuper: ^0.1.5
+  bottom_personalized_dot_bar: ^1.0.2 #底部导航栏
+  adv_fab: ^1.0.5
 
 dev_dependencies:
   flutter_test:
