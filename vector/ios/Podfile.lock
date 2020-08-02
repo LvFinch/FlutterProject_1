@@ -1,19 +1,25 @@
 PODS:
+  - flashy_tab_bar (0.0.1):
+    - Flutter
   - Flutter (1.0.0)
   - fsuper (0.0.1):
     - Flutter
 
 DEPENDENCIES:
+  - flashy_tab_bar (from `.symlinks/plugins/flashy_tab_bar/ios`)
   - Flutter (from `Flutter`)
   - fsuper (from `.symlinks/plugins/fsuper/ios`)
 
 EXTERNAL SOURCES:
+  flashy_tab_bar:
+    :path: ".symlinks/plugins/flashy_tab_bar/ios"
   Flutter:
     :path: Flutter
   fsuper:
     :path: ".symlinks/plugins/fsuper/ios"
 
 SPEC CHECKSUMS:
+  flashy_tab_bar: 4ce02dcf78db98c6a4a4bbf2ea1f4f4f592a5c45
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   fsuper: 8c0f2eac31f4ce7ec7c896f7095e7177729cc0a4
 
